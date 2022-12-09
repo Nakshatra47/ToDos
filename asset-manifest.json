@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ToDos/static/css/main.2fb3f679.chunk.css",
+    "main.js": "/ToDos/static/js/main.8c8b5cea.chunk.js",
+    "main.js.map": "/ToDos/static/js/main.8c8b5cea.chunk.js.map",
+    "runtime-main.js": "/ToDos/static/js/runtime-main.9c0c64de.js",
+    "runtime-main.js.map": "/ToDos/static/js/runtime-main.9c0c64de.js.map",
+    "static/js/2.eab9495a.chunk.js": "/ToDos/static/js/2.eab9495a.chunk.js",
+    "static/js/2.eab9495a.chunk.js.map": "/ToDos/static/js/2.eab9495a.chunk.js.map",
+    "static/js/3.9af66963.chunk.js": "/ToDos/static/js/3.9af66963.chunk.js",
+    "static/js/3.9af66963.chunk.js.map": "/ToDos/static/js/3.9af66963.chunk.js.map",
+    "index.html": "/ToDos/index.html",
+    "static/css/main.2fb3f679.chunk.css.map": "/ToDos/static/css/main.2fb3f679.chunk.css.map",
+    "static/js/2.eab9495a.chunk.js.LICENSE.txt": "/ToDos/static/js/2.eab9495a.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/ToDos/static/media/top-76-textures-wallpaper-hd-background-spot.c95e1fd5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c0c64de.js",
+    "static/js/2.eab9495a.chunk.js",
+    "static/css/main.2fb3f679.chunk.css",
+    "static/js/main.8c8b5cea.chunk.js"
+  ]
+}
